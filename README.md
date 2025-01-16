@@ -1,4 +1,4 @@
-# World-population-EDA-Pyhton-
+# World-Population-EDA-Python-
 
 This Jupyter Notebook contains an exploratory data analysis (EDA) of world population data sourced from kaggle. The dataset includes information about the population, growth rate, area, and density for various countries and territories over several decades.
 
